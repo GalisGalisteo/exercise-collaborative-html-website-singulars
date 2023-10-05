@@ -3,7 +3,7 @@ body{
 }
 #tagline {
     background-image: url('../img/bg.jpg');
-    background-position: center;
+    background-position: bottom;
     min-height: 30rem;
     background-size: cover;
 }
