@@ -4,6 +4,6 @@ body{
 #tagline {
     background-image: url('../img/bg.jpg');
     background-position: center;
-    height: 20rem;
+    min-height: 30rem;
     background-size: cover;
 }
